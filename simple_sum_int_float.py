@@ -1,0 +1,5 @@
+bm = float(raw_input('base meal: '))
+tip = int(raw_input('tip: '))
+tax = int(raw_input('tax: '))
+totalcost = bm + ((tip/100.0)*bm) + ((tax/100.0)*bm)
+print int(round(bm))

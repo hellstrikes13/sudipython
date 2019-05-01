@@ -1,0 +1,2 @@
+s = 'sudeepsubhashchandrasupriyabanaganpatsnehamelekarqweqweiqeoiqwoepiqoeqoweoqiwaskdjsdkfljsdklfjnvmxbcvnxcnmvbsdhdjfjsdhdfiquieuqiwriouqrpkflsdlkfjskdfklsdjfklsdjfsdjfkjsdkjfskdjfsdjkfklsjdkfljqiwuqweuqwizxmasdjasdkjaskljdkj'
+print s[::-1]

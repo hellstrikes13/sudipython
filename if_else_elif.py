@@ -1,11 +1,11 @@
 n = input("enter a number: ")
 if n % 2 != 0:
-    print "wierd"
+    print "Weird"
 elif n % 2 == 0 and n in range(2,6):
-    print "Not wierd"
+    print "Not weird"
 elif  n % 2 == 0 and n in range(6,21):
-    print "Wierd"
+    print "Weird"
 elif n % 2 == 0 and n > 20:
-    print "Not wierd"
+    print "Not weird"
 else:
     print 'gl'
